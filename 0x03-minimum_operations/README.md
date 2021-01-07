@@ -14,4 +14,4 @@
 ## Tasks
 ### Mandatory :page_with_curl:
 - [x] **[0. Minimum Operations](./## Author :pencil:
-**Santiago Peña Mosquera** - twitter [@santiagopemo](https://twitter.com/santiagopemo) - LinkedIn [Santiago Peña Mosquera](https://www.linkedin.com/in/santiago-pe%C3%B1a-mosquera-abaa20196/)
+**Andres Rodriguez** 
