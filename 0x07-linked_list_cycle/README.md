@@ -19,4 +19,4 @@
 ### Mandatory :page_with_curl:
 - [x] **[0. Linked list cycle](./0-check_cycle.c)** - Technical interview preparation
 ## Author :pencil:
-**Santiago Peña Mosquera** - twitter [@santiagopemo](https://twitter.com/santiagopemo) - LinkedIn [Santiago Peña Mosquera](https://www.linkedin.com/in/santiago-pe%C3%B1a-mosquera-abaa20196/)
+**Andres Felipe Rodriguez** 
