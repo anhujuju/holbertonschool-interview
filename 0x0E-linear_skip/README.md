@@ -22,4 +22,4 @@
 ### Mandatory :page_with_curl:
 - [x] **[0. Linear search in a skip list](./0-linear_skip.c)** - Looking for a specific value in a singly linked list always leads to browse every element of the list. A common way to optimize the time complexity of a search in a singly linked list is to modify the list itself by adding an “express lane” to browse it. A linked list with an express lane is called a skip list
 ## Author :pencil:
-**Santiago Peña Mosquera** - twitter [@santiagopemo](https://twitter.com/santiagopemo) - LinkedIn [Santiago Peña Mosquera](https://www.linkedin.com/in/santiago-pe%C3%B1a-mosquera-abaa20196/)
+**Andres Felipe Rodriguez**
